@@ -1,0 +1,6 @@
+Bobble Max Age: 0.1
+Starting Energy: 0.0
+Distance covered per step: 0.1
+steps per day: 0.1
+size of litter: 0.1
+reproduction threshold: 0.1

@@ -1,0 +1,11 @@
+Discussion with Collaborative learning group: Victor Huang, Charlotte Nahley, Ariana Borlak --> taught me how to comment correctly
+Consultation with Professor: Anya Vostinar 
+Used Oracle https://docs.oracle.com/en/java/javase/11/docs/api/allclasses.html resource.
+Spoke to previous bio teacher: Dr. Inka Curran about it --> inspired to add yellowstone wolves option.
+
+
+
+
+https://stackoverflow.com/questions/2755945/how-can-i-use-as-the-delimiter-with-string-split-in-java
+
+https://howtodoinjava.com/java/io/how-to-check-if-file-exists-in-java/

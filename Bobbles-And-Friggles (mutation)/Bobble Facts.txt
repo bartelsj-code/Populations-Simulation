@@ -1,0 +1,6 @@
+Maximum Age:20
+Starting Energy Level:30
+Distance covered per step (distance between landplots):5
+steps taken per day (landplots visited per day):25
+Size of litter (when reproduction occurs):4
+Energy level required to reproduce:45
